@@ -1,20 +1,20 @@
 # Struktur Database Portofolio
-Database disimpan di Supabase, project `portofolio-andi` (region
+Database disimpan di Supabase, project `portofolio-asyifa` (region
 Southeast Asia, Singapore). Alamat project dan
 publishable key disimpan di `.env.local`, yang tidak ikut di-commit
 karena tercantum di `.gitignore` (`.env*`).
 ## Tabel `projects`
-Daftar proyek portofolio Andi Pratama.
+Daftar proyek portofolio Asyifa Nurfaiza.
 | Kolom | Tipe | Keterangan |
 | --- | --- | --- |
 | `id` | `int8` | Primary key, nomor otomatis 1, 2, 3, ... |
 | `created_at` | `timestamptz` | Waktu baris dibuat, terisi otomatis# Struktur Database Portofolio
-Database disimpan di Supabase, project `portofolio-andi` (region
+Database disimpan di Supabase, project `portofolio-asyifa` (region
 Southeast Asia, Singapore). Alamat project dan
 publishable key disimpan di `.env.local`, yang tidak ikut di-commit
 karena tercantum di `.gitignore` (`.env*`).
 ## Tabel `projects`
-Daftar proyek portofolio Andi Pratama.
+Daftar proyek portofolio Asyifa Nurfaiza.
 | Kolom | Tipe | Keterangan |
 | --- | --- | --- |
 | `id` | `int8` | Primary key, nomor otomatis 1, 2, 3, ... |
